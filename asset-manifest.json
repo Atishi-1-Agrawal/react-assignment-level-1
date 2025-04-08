@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Atishi-1-Agrawal/react-assignment-level-1/static/css/main.bf01946a.css",
-    "main.js": "/Atishi-1-Agrawal/react-assignment-level-1/static/js/main.82ce3d8b.js",
+    "main.js": "/Atishi-1-Agrawal/react-assignment-level-1/static/js/main.b8bafda2.js",
     "static/js/453.6c4a0b29.chunk.js": "/Atishi-1-Agrawal/react-assignment-level-1/static/js/453.6c4a0b29.chunk.js",
     "index.html": "/Atishi-1-Agrawal/react-assignment-level-1/index.html",
     "main.bf01946a.css.map": "/Atishi-1-Agrawal/react-assignment-level-1/static/css/main.bf01946a.css.map",
-    "main.82ce3d8b.js.map": "/Atishi-1-Agrawal/react-assignment-level-1/static/js/main.82ce3d8b.js.map",
+    "main.b8bafda2.js.map": "/Atishi-1-Agrawal/react-assignment-level-1/static/js/main.b8bafda2.js.map",
     "453.6c4a0b29.chunk.js.map": "/Atishi-1-Agrawal/react-assignment-level-1/static/js/453.6c4a0b29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf01946a.css",
-    "static/js/main.82ce3d8b.js"
+    "static/js/main.b8bafda2.js"
   ]
 }
